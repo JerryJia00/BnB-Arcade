@@ -7,3 +7,5 @@ Additional feature:
 1. There are two modes that is available to the players, one is the normal one and one is dark mode(D), where the players can only see a 4x4 area around itself.
 2. The game supports save(:Q) and reload(L)
 3. Player can kick the bomb and make it move a few grids toward the direction, and it will pop there instead.
+
+[Game Demonstration](https://youtu.be/Jkuk5A5C2BQ)
