@@ -8,4 +8,4 @@ Additional feature:
 2. The game supports save(:Q) and reload(L)
 3. Player can kick the bomb and make it move a few grids toward the direction, and it will pop there instead.
 
-[Game Demonstration](https://youtu.be/Jkuk5A5C2BQ)
+[Game Demonstration Video](https://youtu.be/Jkuk5A5C2BQ)
